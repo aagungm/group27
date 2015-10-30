@@ -601,7 +601,7 @@ a:focus{
 	text-align:center;
 	text-transform:uppercase;
 	width:100%;
-	height:110px;
+	height:140px;
 	border:1px solid #fff;
 	border-top-color:transparent;
 	margin:0;
@@ -649,7 +649,7 @@ a:focus{
 	overflow: hidden;
 	position: relative;
 	width:245px;
-	height: 230px;
+	height: 255px;
 }
 .team-member .social-btn-container .social-btn-box{
 	position: absolute;
@@ -718,6 +718,13 @@ a:focus{
 
 .team-container .team-member:hover .social-buttons{
 	top:90px;
+}
+
+.img-team {
+	width: 245px;
+	height: 264px;
+
+
 }
 /* 5 - About Us Section End 
 ---------------------------------------------------------------------- */
